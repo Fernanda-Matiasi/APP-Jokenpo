@@ -22,6 +22,7 @@ Empatamos.
 ![image](https://user-images.githubusercontent.com/87779901/197598469-f3a10f14-b077-4ba7-821d-a9064e930954.png)
 
 Regras básicas:
+
 -Pedra:
 Ganha de Tesoura;
 Perde para Papel.
